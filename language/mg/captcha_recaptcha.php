@@ -37,16 +37,16 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'RECAPTCHA_LANG'				=> 'en',
-	'RECAPTCHA_NOT_AVAILABLE'		=> 'In order to use reCaptcha, you must create an account on <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
+	'RECAPTCHA_LANG'				=> 'mg',
+	'RECAPTCHA_NOT_AVAILABLE'		=> 'Tsy maintsy mamorona kaonty ao amin’ny <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a> ianao raha te hampiasa ny reCaptcha.',
 	'CAPTCHA_RECAPTCHA'				=> 'reCaptcha',
-	'RECAPTCHA_INCORRECT'			=> 'The solution you provided was incorrect',
-	'RECAPTCHA_NOSCRIPT'			=> 'Please enable JavaScript in your browser to load the challenge.',
+	'RECAPTCHA_INCORRECT'			=> 'Diso ny zavatra nampidirinao',
+	'RECAPTCHA_NOSCRIPT'			=> 'Alefaso ny JavaScript ao amin’ity fijerenao internet ity mba hisokatra ny fanamrinana hentitra.',
 
-	'RECAPTCHA_PUBLIC'				=> 'Public reCaptcha key',
-	'RECAPTCHA_PUBLIC_EXPLAIN'		=> 'Your public reCaptcha key. Keys can be obtained on <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
-	'RECAPTCHA_PRIVATE'				=> 'Private reCaptcha key',
-	'RECAPTCHA_PRIVATE_EXPLAIN'		=> 'Your private reCaptcha key. Keys can be obtained on <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
+	'RECAPTCHA_PUBLIC'				=> 'Fanalahidy reCaptcha hitan’ny rehetra',
+	'RECAPTCHA_PUBLIC_EXPLAIN'		=> 'Ny fanalahidinao reCaptcha hitan’ny rehetra. Afaka alaina ao amin’ny <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a> ny fanalahidy.',
+	'RECAPTCHA_PRIVATE'				=> 'Fanalahidy reCaptcha miafina',
+	'RECAPTCHA_PRIVATE_EXPLAIN'		=> 'Ny fanalahidinao reCaptcha miafina. Afaka alaina ao amin’ny <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>  ny fanalahidy.',
 
-	'RECAPTCHA_EXPLAIN'				=> 'In an effort to prevent automatic submissions, we require that you complete the following challenge.',
+	'RECAPTCHA_EXPLAIN'				=> 'Raha tianao ny hisakana ireo fangatahana mandeha ho azy, dia iangavianay ianao mba hameno ity fanamarinana hentitra ity..',
 ));
