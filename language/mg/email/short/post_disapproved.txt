@@ -1,10 +1,10 @@
-Subject: Post disapproved - "{POST_SUBJECT}"
+Subject: Nolavina ny hafatra nalefanao - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Salama {USERNAME},
 
-You are receiving this notification because your post "{POST_SUBJECT}" at "{SITENAME}" was disapproved by a moderator or administrator.
+Maharay ity fampahafantarana ity ianao satria tsy neken'ny mpandrindra na ny mpandamina ny hafatra "{POST_SUBJECT}" izay nalefanao ao amin'ny "{SITENAME}".
 
-The following reason was given for the disapproval:
+Voalaza eto ambany ny antony nandavana ny hafatra nalefanao:
 
 {REASON}
 

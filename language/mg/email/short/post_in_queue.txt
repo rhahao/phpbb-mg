@@ -1,13 +1,13 @@
-Subject: Post moderation notification - "{TOPIC_TITLE}"
+Subject: Fampahafantarana hafatra miandry fanamarinana - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Salama {USERNAME},
 
-You are receiving this notification because the post "{POST_SUBJECT}" at "{SITENAME}" needs approval.
+Maharay ity fampahafantarana ity ianao satria mbola miandry fanamarinana ny hafatra "{POST_SUBJECT}" izay nalefanao ao amin'ny "{SITENAME}".
 
-If you want to view the post, click the following link:
+Tsindrio ity rohy manaraka ity raha te hijery ilay hafatra nalefanao ianao:
 {U_VIEW_POST}
 
-If you want to view the topic, click the following link:
+Tsindrio ity rohy manaraka ity raha te hijery ilay hafatra ianao:
 {U_TOPIC}
 
 {EMAIL_SIG}
