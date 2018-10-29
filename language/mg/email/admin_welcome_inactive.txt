@@ -1,19 +1,19 @@
-Subject: Welcome to "{SITENAME}"
+Subject: Tongasoa eto amin'ny "{SITENAME}"
 
 {WELCOME_MSG}
 
-Please keep this email for your records. Your account information is as follows:
+Tehirizo tsara ao aminao ity hafatra ity azafady. Toy izao ny fanazavana momba ny kaontinao:
 
 ----------------------------
-Username: {USERNAME}
+Solon'anarana: {USERNAME}
 
-Board URL: {U_BOARD}
+Rohy Forum: {U_BOARD}
 ----------------------------
 
-Your account is currently inactive and will need to be approved by an administrator before you can log in. Another email will be sent when this has occurred.
+Tsy mbola azo ampiasaina izao ny kaontinao, fa mbola mila fanamarinana avy amin'ny mpandrindra, izay vao afaka miditra ianao. Hisy hafatra vaovao alefa aminao rehefa vita izany.
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Voatahiry soa aman-tsara aty amin'ny rakitra anananay ny tenimiafina ampiasainao, ary tsy azo angatahana intsony. Raha ohatra ka hadinonao izy io, dia azonao atao ny mamerina mampiditra vaovao indray amin'ny alalan'ny adiresy email izay miaraka amin'ny kaontinao.
 
-Thank you for registering.
+Misaotra anao namorona kaonty ato amin'ny forum.
 
 {EMAIL_SIG}

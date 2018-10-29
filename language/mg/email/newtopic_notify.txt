@@ -1,12 +1,12 @@
-Subject: New topic notification - "{FORUM_NAME}"
+Subject: Fampahafantarana lohahevitra vaovao - "{FORUM_NAME}"
 
-Hello {USERNAME},
+Salama {USERNAME},
 
-You are receiving this notification because you are watching the forum "{FORUM_NAME}" at "{SITENAME}". This forum has received a new topic<!-- IF AUTHOR_NAME != '' --> by {AUTHOR_NAME}<!-- ENDIF --> since your last visit, "{TOPIC_TITLE}". You can use the following link to view the forum, no more notifications will be sent until you visit the forum.
+Maharay ity fampahafantarana ity ianao satria nasianao fanamarihana ny forum "{FORUM_NAME}" ao amin'ny "{SITENAME}". Misy lohahevitra vaovao<!-- IF AUTHOR_NAME != '' --> nalefan'i {AUTHOR_NAME}<!-- ENDIF --> ao amin'izy io, taorin'ny nijerenao azy farany: "{TOPIC_TITLE}". Tsindrio ity rohy manaraka ity mba hidirana ao amin'ilay forum. Tsy hahazo fampahafantarana intsony ianao mandra-pidirinao ao amin'io forum io.
 
 {U_FORUM}
 
-If you no longer wish to watch this forum you can either click the "Unsubscribe forum" link found in the forum above, or by clicking the following link:
+Raha tsy tianao intsony ny hahazo fampahafantarana hafatra ho an'ity forum ity, dia tsindrio ilay rohy hoe "Hanala ny fanamarihana amin'ny forum" ao amin'ilay forum, na tsindrio ity rohy manaraka ity:
 
 {U_STOP_WATCHING_FORUM}
 

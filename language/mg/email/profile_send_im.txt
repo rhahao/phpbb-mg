@@ -1,13 +1,13 @@
 
-Hello {TO_USERNAME},
+Salama {TO_USERNAME},
 
-The following is a message sent to you by {FROM_USERNAME} via your account on "{SITENAME}". If this message is spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
+Hafatra nalefan'i {FROM_USERNAME} ho anao avy ao amin'ny kaontinao ao amin'ny "{SITENAME}" ity. Raha spam ity hafatra ity, na hitanao hoe misy fanaratsiana na fanehoan-kevitra hafa manafintohina, dia mba ampahafantaro amin'ny alalan'ity adiresy ity ny mpitantana ny tranonkala ho an'ity forum ity:
 
 {BOARD_CONTACT}
 
-Include this full message. Please note that the sender address has been set to the boards IM account.
+Ampidiro ity hafatra rehetra ity. Ny adiresin'ny mpandefa dia nofaritana araka ny kaonty ato amin'ny forum.
 
-Message sent to you follows
+Toy izao ny hafatra nalefa ho anao
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {MESSAGE}

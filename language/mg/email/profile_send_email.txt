@@ -1,13 +1,13 @@
 
-Hello {TO_USERNAME},
+Salama {TO_USERNAME},
 
-The following is an email sent to you by {FROM_USERNAME} via your account on "{SITENAME}". If this message is spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
+Email nalefan'i {FROM_USERNAME} ho anao avy ao amin'ny kaontinao ao amin'ny "{SITENAME}" ity. Raha spam ity email ity, na hitanao hoe misy fanaratsiana na fanehoan-kevitra hafa manafintohina, dia mba ampahafantaro amin'ny alalan'ity adiresy ity ny mpitantana ny tranonkala ho an'ity forum ity:
 
 {BOARD_CONTACT}
 
-Include this full email (particularly the headers). Please note that the reply address to this email has been set to that of {FROM_USERNAME}.
+Ampidiro ity email rehetra ity (indrindra fa ny lohapejy). Ny adiresy hamalianao ity email ity, dia natao mitovy tamin'izay nataon'i {FROM_USERNAME}.
 
-Message sent to you follows
+Toy izao ny hafatra nalefa ho anao
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {MESSAGE}

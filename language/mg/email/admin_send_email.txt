@@ -1,11 +1,11 @@
 
-The following is an email sent to you by an administrator of "{SITENAME}". If this message is spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
+Hafatra nalefan'ny mpandrindra ny "{SITENAME}" ho anao ity. Raha spam ity hafatra ity, na hitanao hoe misy fanaratsiana na fanehoan-kevitra hafa manafintohina, dia mba ampahafantaro amin'ny alalan'ity adiresy ity ny mpitantana ny tranonkala ho an'ity forum ity:
 
 {CONTACT_EMAIL}
 
-Include this full email (particularly the headers). 
+Ampidiro koa ity hafatra ity (indrindra fa ny lohapejy).
 
-Message sent to you follows:
+Ity ny hafatra nalefa ho anao:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {MESSAGE}

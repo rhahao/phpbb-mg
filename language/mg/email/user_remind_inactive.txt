@@ -1,11 +1,11 @@
-Subject: Inactive account reminder
+Subject: Fampahatsiahivana momba ny kaonty tsy mbola azo ampiasaina
 
-Hello {USERNAME},
+Salama {USERNAME},
 
-This notification is a reminder that your account at "{SITENAME}", created on {REGISTER_DATE}, remains inactive. If you would like to activate this account, please visit the following link:
+Ity fampahafantarana ity dia fampahatsiahivana fa ny kaotinao ao amin'ny "{SITENAME}", noforonina tamin'ny {REGISTER_DATE}, dia mbola tsy azo ampiasaina hatramin'izao. Tsindrio ity rohy manaraka ity raha tianao ny hampandeha io kaonty io:
 
 {U_ACTIVATE}
 
-Thank you for registering at "{SITENAME}", we look forward to your participation.
+Misaotra anao namorona kaonty ato amin'ny forum "{SITENAME}", tsy andrinay ny hahita ny fandraisanao anjara ato.
 
 {EMAIL_SIG}

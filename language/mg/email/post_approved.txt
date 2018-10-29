@@ -1,13 +1,13 @@
-Subject: Post approved - "{POST_SUBJECT}"
+Subject: Nekena ny hafatra nalefanao - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Salama {USERNAME},
 
-You are receiving this notification because your post "{POST_SUBJECT}" at "{SITENAME}" was approved by a moderator or administrator.
+Maharay ity fampahafantarana ity ianao satria neken'ny mpandrindra na ny mpandamina ny hafatra "{POST_SUBJECT}" izay nalefanao ao amin'ny "{SITENAME}".
 
-If you want to view the post, click the following link:
+Tsindrio ity rohy manaraka ity raha te hijery ilay hafatra nalefanao ianao:
 {U_VIEW_POST}
 
-If you want to view the topic, click the following link:
+Tsindrio ity rohy manaraka ity raha te hijery ilay hafatra ianao:
 {U_VIEW_TOPIC}
 
 {EMAIL_SIG}

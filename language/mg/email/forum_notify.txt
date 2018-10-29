@@ -1,18 +1,18 @@
-Subject: Forum post notification - "{FORUM_NAME}"
+Subject: Fampahafantarana hafatra ao amin'ny forum - "{FORUM_NAME}"
 
-Hello {USERNAME},
+Salama {USERNAME},
 
-You are receiving this notification because you are watching the forum "{FORUM_NAME}" at "{SITENAME}". This forum has received a new reply to the topic "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME != '' --> by {AUTHOR_NAME}<!-- ENDIF --> since your last visit. You can use the following link to view the last unread reply, no more notifications will be sent until you visit the topic.
+Maharay ity fampahafantarana ity ianao satria nasianao fanamarihana ny forum "{FORUM_NAME}" ao amin'ny "{SITENAME}". Misy hafatra vaovao voaray ho an'ny lohahevitra "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME != '' --> by {AUTHOR_NAME}<!-- ENDIF --> ao amin'izy io, taorin'ny nijerenao azy farany. Tsindrio ity rohy manaraka ity mba hijerena ny hafatra vaovao mbola tsy voavaky. Tsy hahazo fampahafantarana intsony ianao mandra-pidirinao ao amin'io lohahevitra io.
 
 {U_NEWEST_POST}
 
-If you want to view the topic, click the following link:
+Tsindrio ity rohy manaraka ity raha te hijery ilay lohahevitra ianao:
 {U_TOPIC}
 
-If you want to view the forum, click the following link:
+Tsindrio ity rohy manaraka ity raha te hijery ilay forum ianao:
 {U_FORUM}
 
-If you no longer wish to watch this forum you can either click the "Unsubscribe forum" link found in the forum above, or by clicking the following link:
+Raha tsy tianao intsony ny hahazo fampahafantarana hafatra ho an'ity forum ity, dia tsindrio ilay rohy hoe "Hanala ny fanamarihana amin'ny forum" ao amin'ilay forum, na tsindrio ity rohy manaraka ity:
 
 {U_STOP_WATCHING_FORUM}
 

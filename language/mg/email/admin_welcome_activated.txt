@@ -1,9 +1,9 @@
-Subject: Account activated
+Subject: Kaonty nampandehanina
 
-Hello {USERNAME},
+Salama {USERNAME},
 
-Your account on "{SITENAME}" has been activated by an administrator, you may login now.
+Efa nalefan'ny mpandrindra ny kaontinao ao amin'ny "{SITENAME}", ka efa afaka miditra ianao izao.
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Voatahiry soa aman-tsara aty amin'ny rakitra anananay ny tenimiafina ampiasainao, ary tsy azo angatahana intsony. Raha ohatra ka hadinonao izy io, dia azonao atao ny mamerina mampiditra vaovao indray amin'ny alalan'ny adiresy email izay miaraka amin'ny kaontinao.
 
 {EMAIL_SIG}

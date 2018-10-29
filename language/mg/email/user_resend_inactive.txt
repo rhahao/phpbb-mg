@@ -1,19 +1,19 @@
-Subject: Welcome to "{SITENAME}"
+Subject: Tongasoa eto amin'ny "{SITENAME}"
 
 {WELCOME_MSG}
 
-Please keep this email for your records. Your account information is as follows:
+Tehirizo tsara ao aminao ity hafatra ity azafady. Toy izao ny fanazavana momba ny kaontinao:
 
 ----------------------------
-Username: {USERNAME}
+Solon'anarana: {USERNAME}
 ----------------------------
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Voatahiry soa aman-tsara aty amin'ny rakitra anananay ny tenimiafina ampiasainao, ary tsy azo angatahana intsony. Raha ohatra ka hadinonao izy io, dia azonao atao ny mamerina mampiditra vaovao indray amin'ny alalan'ny adiresy email izay miaraka amin'ny kaontinao.
 
-Please visit the following link in order to activate your account:
+Tsindrio ity rohy manaraka ity mba hampandehanana ny kaontinao:
 
 {U_ACTIVATE}
 
-Thank you for registering.
+Misaotra anao namorona kaonty ato amin'ny forum.
 
 {EMAIL_SIG}
