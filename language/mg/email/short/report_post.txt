@@ -1,13 +1,13 @@
-Subject: Post report - "{TOPIC_TITLE}"
+Subject: Tatitra momba ny hafatra - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Salama {USERNAME},
 
-You are receiving this notification because the post "{POST_SUBJECT}" at "{SITENAME}" was reported.
+Maharay ity fampahafantarana ity ianao satria misy tatitra voaray momba ny hafatra "{POST_SUBJECT}" ao amin'ny "{SITENAME}".
 
-If you want to view the report, click the following link:
+Tsindrio ity rohy manaraka ity raha te hijery ilay tatitra ianao:
 {U_VIEW_REPORT}
 
-If you want to view the post, click the following link:
+Tsindrio ity rohy manaraka ity raha te hijery ilay hafatra ianao:
 {U_VIEW_POST}
 
 {EMAIL_SIG}

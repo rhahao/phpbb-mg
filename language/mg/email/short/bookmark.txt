@@ -1,13 +1,13 @@
-Subject: Fampahafantarana valina hafatra nalefa - "{TOPIC_TITLE}"
+Subject: Fampahafantarana valina lohahevitra - "{TOPIC_TITLE}"
 
 Salama {USERNAME},
 
-Maharay ity fampahafantarana ity ianao satria nisy namaly ny hafatra "{TOPIC_TITLE}" ao amin'ny "{SITENAME}", izay nasianao fanamarihana. Tsindrio ity rohy manaraka ity mba hahitanao ny hafatra farany nalefa. Tsy hahazo fampahafantarana intsony ianao mandra-pijerinao io valina hafatra io.
+Maharay ity fampahafantarana ity ianao satria nisy namaly ny lohahevitra "{TOPIC_TITLE}" ao amin'ny "{SITENAME}", izay nasianao fanamarihana. Tsindrio ity rohy manaraka ity mba hahitanao ny hafatra farany nalefa. Tsy hahazo fampahafantarana intsony ianao mandra-pijerinao io valina hafatra io.
 
 Tsindrio ity rohy manaraka ity raha te hijery ny valina hafatra nalefa farany ianao:
 {U_NEWEST_POST}
 
-Tsindrio ity rohy manaraka ity raha te hijery ilay hafatra ianao:
+Tsindrio ity rohy manaraka ity raha te hijery ilay lohahevitra ianao:
 {U_TOPIC}
 
 Tsindrio ity rohy manaraka ity raha te hijery ilay forum ianao:

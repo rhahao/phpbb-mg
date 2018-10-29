@@ -1,10 +1,10 @@
-Subject: Topic approved - "{TOPIC_TITLE}"
+Subject: Nekena ny lohahevitra nalefanao - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Salama {USERNAME},
 
-You are receiving this notification because your topic "{TOPIC_TITLE}" at "{SITENAME}" was approved by a moderator or administrator.
+Maharay ity fampahafantarana ity ianao satria neken'ny mpandrindra na ny mpandamina ny lohahevitra "{TOPIC_TITLE}" izay nalefanao ao amin'ny "{SITENAME}".
 
-If you want to view the topic, click the following link:
+Tsindrio ity rohy manaraka ity raha te hijery ilay lohahevitra ianao:
 {U_VIEW_TOPIC}
 
 {EMAIL_SIG}

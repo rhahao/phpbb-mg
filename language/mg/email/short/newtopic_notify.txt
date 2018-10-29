@@ -1,8 +1,8 @@
-Subject: Fampahafantarana hafatra vaovao - "{FORUM_NAME}"
+Subject: Fampahafantarana lohahevitra vaovao - "{FORUM_NAME}"
 
 Salama {USERNAME},
 
-Maharay ity fampahafantarana ity ianao satria nasianao fanamarihana ny forum "{FORUM_NAME}" ao amin'ny "{SITENAME}". Misy hafatra vaovao<!-- IF AUTHOR_NAME != '' --> nalefan'i {AUTHOR_NAME}<!-- ENDIF --> ao amin'izy io, taorin'ny nijerenao azy farany: "{TOPIC_TITLE}". Tsindrio ity rohy manaraka ity mba hidirana ao amin'ilay forum. Tsy hahazo fampahafantarana intsony ianao mandra-pidirinao ao amin'io forum io.
+Maharay ity fampahafantarana ity ianao satria nasianao fanamarihana ny forum "{FORUM_NAME}" ao amin'ny "{SITENAME}". Misy lohahevitra vaovao<!-- IF AUTHOR_NAME != '' --> nalefan'i {AUTHOR_NAME}<!-- ENDIF --> ao amin'izy io, taorin'ny nijerenao azy farany: "{TOPIC_TITLE}". Tsindrio ity rohy manaraka ity mba hidirana ao amin'ilay forum. Tsy hahazo fampahafantarana intsony ianao mandra-pidirinao ao amin'io forum io.
 
 {U_FORUM}
 

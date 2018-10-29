@@ -1,10 +1,10 @@
-Subject: Private Message report - "{TOPIC_TITLE}"
+Subject: Tatitra momba ny Hafatra Manokana - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Salama {USERNAME},
 
-You are receiving this notification because a Private Message titled "{SUBJECT}" by "{AUTHOR_NAME}" at "{SITENAME}" was reported.
+Maharay ity fampahafantarana ity ianao satria misy tatitra voaray momba ny Hafatra Manokana mitondra ny lohateny hoe "{SUBJECT}", nalefan'i "{AUTHOR_NAME}" ao amin'ny "{SITENAME}".
 
-If you want to view the report, click the following link:
+Tsindrio ity rohy manaraka ity raha te hijery ilay tatitra ianao:
 {U_VIEW_REPORT}
 
 {EMAIL_SIG}

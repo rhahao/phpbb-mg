@@ -2,7 +2,7 @@ Subject: Nolavina ny hafatra nalefanao - "{POST_SUBJECT}"
 
 Salama {USERNAME},
 
-Maharay ity fampahafantarana ity ianao satria tsy neken'ny mpandrindra na ny mpandamina ny hafatra "{POST_SUBJECT}" izay nalefanao ao amin'ny "{SITENAME}".
+Maharay ity fampahafantarana ity ianao satria nolavin'ny mpandrindra na ny mpandamina ny hafatra "{POST_SUBJECT}" izay nalefanao ao amin'ny "{SITENAME}".
 
 Voalaza eto ambany ny antony nandavana ny hafatra nalefanao:
 

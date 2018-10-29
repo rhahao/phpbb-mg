@@ -1,13 +1,13 @@
-Subject: Topic moderation notification - "{TOPIC_TITLE}"
+Subject: Fampahafantarana lohahevitra miandry fanamarinana - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Salama {USERNAME},
 
-You are receiving this notification because the topic "{TOPIC_TITLE}" at "{SITENAME}" needs approval.
+Maharay ity fampahafantarana ity ianao satria mbola miandry fanamarinana ny lohahevitra "{TOPIC_TITLE}" izay nalefanao ao amin'ny "{SITENAME}".
 
-If you want to view the topic, click the following link:
+Tsindrio ity rohy manaraka ity raha te hijery ilay lohahevitra ianao:
 {U_VIEW_TOPIC}
 
-If you want to view the forum, click the following link:
+Tsindrio ity rohy manaraka ity raha te hijery ilay forum ianao:
 {U_FORUM}
 
 {EMAIL_SIG}
