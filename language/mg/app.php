@@ -41,8 +41,8 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'CONTROLLER_ARGUMENT_VALUE_MISSING'	=> 'Tsy misy valeur ny argument #%1$s: <strong>%3$s</strong> ao amin’ny kilasy <strong>%2$s</strong>',
-	'CONTROLLER_NOT_SPECIFIED'			=> 'Tsy misy contrôleur voafaritra.',
-	'CONTROLLER_METHOD_NOT_SPECIFIED'	=> 'Tsy misy fomba fiasa voafaritra ho an’ny contrôleur.',
-	'CONTROLLER_SERVICE_UNDEFINED'		=> 'Tsy voafaritra ao amin’ny ./config/services.yml ny asa ataon’ny contrôleur “<strong>%s</strong>”.',
+	'CONTROLLER_ARGUMENT_VALUE_MISSING'	=> 'Missing value for argument #%1$s: <strong>%3$s</strong> in class <strong>%2$s</strong>',
+	'CONTROLLER_NOT_SPECIFIED'			=> 'No controller has been specified.',
+	'CONTROLLER_METHOD_NOT_SPECIFIED'	=> 'No method was specified for the controller.',
+	'CONTROLLER_SERVICE_UNDEFINED'		=> 'The service for controller “<strong>%s</strong>” is not defined in ./config/services.yml.',
 ));

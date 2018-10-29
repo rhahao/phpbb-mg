@@ -37,28 +37,28 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'CAPTCHA_QA'				=> 'Fanontaniana sy valiny',
-	'CONFIRM_QUESTION_EXPLAIN'	=> 'Ity fanontaniana ity dia manampy anao hisakana ireo karazana robot izay mandefa ho azy fangatahana ato amin’ity tranonkala ity.',
-	'CONFIRM_QUESTION_WRONG'	=> 'Diso ny valinteny nomenao ilay fanontaniana.',
-	'CONFIRM_QUESTION_MISSING'	=> 'Nisy olana ny fanontaniana ho an’ny captcha. Ampahafantaro azafady ny mpandrindra ny tranonkala.',
+	'CAPTCHA_QA'				=> 'Q&amp;A',
+	'CONFIRM_QUESTION_EXPLAIN'	=> 'This question is a means of preventing automated form submissions by spambots.',
+	'CONFIRM_QUESTION_WRONG'	=> 'You have provided an invalid answer to the question.',
+	'CONFIRM_QUESTION_MISSING'	=> 'Questions for the captcha could not be retrieved. Please contact a board administrator.',
 
-	'QUESTION_ANSWERS'			=> 'Valiny',
-	'ANSWERS_EXPLAIN'			=> 'Ampidiro ny valiny marina ho an’ilay fanontaniana, iray isaky ny andalana.',
-	'CONFIRM_QUESTION'			=> 'Fanontaniana',
+	'QUESTION_ANSWERS'			=> 'Answers',
+	'ANSWERS_EXPLAIN'			=> 'Please enter valid answers to the question, one per line.',
+	'CONFIRM_QUESTION'			=> 'Question',
 
-	'ANSWER'					=> 'Valiny',
-	'EDIT_QUESTION'				=> 'Hanova ny Fanontaniana',
-	'QUESTIONS'					=> 'Fanontaniana',
-	'QUESTIONS_EXPLAIN'			=> 'Isaky ny handefa fangatahana ny olona, ka navelanao handeha ny plugin Fanontaniana sy valiny, dia ho hanontaniana ny iray amin’ireo fanontaniana ireo izy ireo. Mila misy fanontaniana iray fara fahakeliny voafaritra ho an’ny fiteny voalohany ampiasainao, raha tianao ny hampiasa ity plugin ity. Tokony tsy ho sarotra amin’ireo olona hampiasa ity tranonkala ity ny valin’ireny fanontaniana ireny, nefa kosa tsy tokony ho fantatr’ireo robot izay mampiasa fikarohana Google™. Ho tsara kokoa ny vokatra ho azo raha betsaka kokoa ny fanontaniana ampiasaina, ary mihavao foana. Alefaso ny fanamarinana hentitra raha toa misy renintsoratra, na zanatsoratra, na mari-piatoana na elanelana ny valim-panontaniana.',
-	'QUESTION_DELETED'			=> 'Nofafana ny fanontaniana',
-	'QUESTION_LANG'				=> 'Fiteny',
-	'QUESTION_LANG_EXPLAIN'		=> 'Ny fiteny nanoratana ity fanontaniana ity sy ny valiny.',
-	'QUESTION_STRICT'			=> 'Fanamarinana hentitra',
-	'QUESTION_STRICT_EXPLAIN'	=> 'Alefaso ity raha tianao hohamarinina ny renintsoratra, zanatsoratra, mari-piatoana ary ny elanelana.',
+	'ANSWER'					=> 'Answer',
+	'EDIT_QUESTION'				=> 'Edit Question',
+	'QUESTIONS'					=> 'Questions',
+	'QUESTIONS_EXPLAIN'			=> 'For every form submission where you have enabled the Q&amp;A plugin, users will be asked one of the questions specified here. To use this plugin at least one question must be set in the default language. These questions should be easy for your target audience to answer but beyond the ability of a bot capable of running a Google™ search. Using a large and regularly changed set of questions will yield the best results. Enable the strict setting if your question relies on mixed case, punctuation or whitespace.',
+	'QUESTION_DELETED'			=> 'Question deleted',
+	'QUESTION_LANG'				=> 'Language',
+	'QUESTION_LANG_EXPLAIN'		=> 'The language this question and its answers are written in.',
+	'QUESTION_STRICT'			=> 'Strict check',
+	'QUESTION_STRICT_EXPLAIN'	=> 'Enable to enforce mixed case, punctuation and whitespace.',
 
-	'QUESTION_TEXT'				=> 'Fanontaniana',
-	'QUESTION_TEXT_EXPLAIN'		=> 'Fanontaniana hiseho any amin’ny olona.',
+	'QUESTION_TEXT'				=> 'Question',
+	'QUESTION_TEXT_EXPLAIN'		=> 'The question presented to the user.',
 
-	'QA_ERROR_MSG'				=> 'Fenoy daholo azafady ny fanazavana rehetra ary mampidira valinteny iray fara fahakeliny.',
-	'QA_LAST_QUESTION'			=> 'Raha mbola mandeha ny plugin dia tsy afaka fafana daholo ny fanontaniana.',
+	'QA_ERROR_MSG'				=> 'Please fill in all fields and enter at least one answer.',
+	'QA_LAST_QUESTION'			=> 'You cannot delete all questions while the plugin is active.',
 ));
