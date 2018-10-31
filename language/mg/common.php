@@ -125,7 +125,7 @@ $lang = array_merge($lang, array(
 	'BAN_TRIGGERED_BY_IP'	=> 'Nahazo fampitsaharana ny adiresy IP ampiasainao.',
 	'BAN_TRIGGERED_BY_USER'	=> 'Nahazo fampitsaharana ny solon’anarana ampiasainao.',
 	'BBCODE_GUIDE'			=> 'Fampiasana ny BBCode',
-	'BCC'					=> 'BCC',
+	'BCC'					=> 'KKM',
 	'BIRTHDAYS'				=> 'Aniversera',
 	'BOARD_BAN_PERM'		=> 'Tsy navela hampiasa <strong>intsony</strong> ity forum ity ianao.<br /><br />Mandefasa hafatra any amin’ny %2$sBoard Administrator%3$s raha mila fanazavana fanampiny.',
 	'BOARD_BAN_REASON'		=> 'Antony nahatonga ny fampitsaharana: <strong>%s</strong>',
@@ -183,7 +183,7 @@ $lang = array_merge($lang, array(
 	'COOKIE_CONSENT_OK'		=> 'Voaray!',
 	'COOKIE_CONSENT_HREF'	=> 'http://cookiesandyou.com',
 	'COOKIES_DELETED'		=> 'Voafafa daholo ny cookies ampiasain’ny forum.',
-	'CURRENT_TIME'			=> 'Amin’ny %s izao',
+	'CURRENT_TIME'			=> 'Ny daty sy ora izao: %s',
 
 	'DAY'					=> 'Andro',
 	'DAYS'					=> 'Andro',
@@ -351,7 +351,7 @@ $lang = array_merge($lang, array(
 	'IP_BLACKLISTED'			=> 'Your IP %1$s has been blocked because it is blacklisted. For details please see <a href="%2$s">%2$s</a>.',
 
 	'JABBER'				=> 'Jabber',
-	'JOINED'				=> 'Fisoratana anarana',
+	'JOINED'				=> 'Nanomboka tamin’ny',
 	'JUMP_PAGE'				=> 'Ampidiro ny laharana pejy tianao handehanana',
 	'JUMP_TO'				=> 'Hankany amin’ny',
 	'JUMP_TO_PAGE'			=> 'Hankany amin’ny pejy',
