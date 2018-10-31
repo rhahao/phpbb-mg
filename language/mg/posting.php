@@ -224,7 +224,7 @@ $lang = array_merge($lang, array(
 	'POST_REVIEW_EXPLAIN'		=> 'Nisy hafatra vaovao iray fara fahakeliny voaray ho an’ity lohahevitra ity. Azonao jerena sy amboarina mifanaraka amin’izy io ny hafatra alefanao.',
 	'POST_STORED'				=> 'Lasa soa aman-tsara ity hafatra ity.',
 	'POST_STORED_MOD'			=> 'This message has been submitted successfully, but it will need to be approved by a moderator before it is publicly viewable.',
-	'POST_TOPIC_AS'				=> 'Handefa ny lohahevitra toy ny hoe',
+	'POST_TOPIC_AS'				=> 'Karazana lohahevitra',
 	'PROGRESS_BAR'				=> 'Fandrosoana',
 
 	'QUOTE_DEPTH_EXCEEDED'		=> array(
@@ -242,7 +242,7 @@ $lang = array_merge($lang, array(
 	'SMILIES_ARE_OFF'			=> '<em>TSY MANDEHA</em> ny émoticônes',
 	'SMILIES_ARE_ON'			=> '<em>MANDEHA</em> ny émoticônes',
 	'STICKY_ANNOUNCE_TIME_LIMIT'=> 'Fotoana haharetan’ny Naoty/Fampandrenesana/Fampandrenesana ankapobeny',
-	'STICK_TOPIC_FOR'			=> 'Fotoana haharetan’ny Naoty',
+	'STICK_TOPIC_FOR'			=> 'Fotoana haharetany',
 	'STICK_TOPIC_FOR_EXPLAIN'	=> 'Raha tianao haharitra ny Naoty/Fampandrenesana/Fampandrenesana ankapobeny, dia 0 ampidirina. Ity tarehimarika dia isaina manomboka amin’ny fotoana handefasana ity hafatra ity.',
 	'STYLES_TIP'				=> 'Torohevitra: Mora kokoa ny manisy endrika ny soratra raha safidiana aloha ilay izy.',
 
